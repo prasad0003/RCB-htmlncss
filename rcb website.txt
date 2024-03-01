@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> home</title>
+</head>
+
+
+
+
+
+
+
+<body>
+<h1 align="center">Royal Challengers Banglore</h1>
+<a href="home.html">home</a>
+<a href=" team.html"> team</a>
+<a href="players.html">players</a>
+<a href="go green.html">go green</a>
+<a href="about.html">about</a>
+<a href="contact.html">contact</a>
+<a href="register.html">register</a>
+<hr>
+<h1>home<h1>
